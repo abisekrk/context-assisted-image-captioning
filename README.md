@@ -4,7 +4,7 @@
 # “Let’s not Quote out of Context”: Unified Vision-Language Pretraining for Context Assisted Image Captioning
 
 <p align="center">
-        <a href="https://aclanthology.org/2023.acl-industry.67/">Paper </a>&nbsp ｜ <a href="https://iitbacin-my.sharepoint.com/:f:/g/personal/21q050004_iitb_ac_in/Eu6lmwWo0PdKopPfOJ6ZePUBVmLqG8izfnYChvmZ0c2vCw?e=gVFGjI"> Data </a>&nbsp | <a href="https://iitbacin-my.sharepoint.com/:f:/g/personal/21q050004_iitb_ac_in/Eu6lmwWo0PdKopPfOJ6ZePUBVmLqG8izfnYChvmZ0c2vCw?e=gVFGjI"> Checkpoints </a>
+        <a href="https://aclanthology.org/2023.acl-industry.67/">Paper </a>&nbsp ｜ <a href="https://iitbacin-my.sharepoint.com/:f:/g/personal/21q050004_iitb_ac_in/Eu6lmwWo0PdKopPfOJ6ZePUBVmLqG8izfnYChvmZ0c2vCw?e=gVFGjI"> Data </a>&nbsp | <a href="https://iitbacin-my.sharepoint.com/:f:/g/personal/21q050004_iitb_ac_in/ElXUdK94M7BNvdCqmIz5zgQBwD4cHYGl1T3uGxV-1itiHA?e=oIVglS"> Checkpoints </a>
 </p>
 
 
